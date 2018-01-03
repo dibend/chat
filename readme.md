@@ -3,6 +3,11 @@
 This app is built with express.js and socket.io node modules. I use swig as templating engine.
 
 ## How to install
+Prerq make and g++
+```
+sudo apt install g++
+sudo apt install make
+```
 
 First clone this repo and then `cd` into it. After that run this command-
 
